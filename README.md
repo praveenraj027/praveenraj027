@@ -1,4 +1,4 @@
-# Praveen Rajak's GitHub  
+# Praveen Rajak  
 
 Welcome to my GitHub profile! 👋  
 I'm **Praveen Rajak**, a passionate **Computer Science Engineering** student specializing in **AI and Machine Learning**. I'm also an aspiring **Frontend Developer** with experience in **HTML, CSS, JavaScript, and React.js**.  
