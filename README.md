@@ -16,7 +16,6 @@ I'm **Praveen Rajak**, a passionate **Computer Science Engineering** student spe
 🛠 **Technologies & Tools**  
 - **Frontend**: HTML, CSS, JavaScript, React.js  
 - **Backend**: Node.js (familiarity), Express (basic knowledge)  
-- **AI & ML**: Python, TensorFlow, Keras, Scikit-learn  
 - **Version Control**: Git, GitHub  
 
 ## 🛠 My Skills  
