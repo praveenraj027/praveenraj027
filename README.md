@@ -7,6 +7,11 @@ I'm **Praveen Rajak**, a passionate **Computer Science Engineering** student spe
 🎓 **Education**  
 **Bachelor’s in Computer Science Engineering** from *Gyan Ganga Institute of Technology and Sciences*.  
 
+### 🚀 Projects
+ 
+🔹 *[AlgoVisualizer]()* — Making algorithms come to life through visualization.  
+
+
 🔍 **Interests**  
 - Artificial Intelligence  
 - Machine Learning  
