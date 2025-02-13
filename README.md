@@ -36,6 +36,7 @@ I'm **Praveen Rajak**, a passionate **Computer Science Engineering** student spe
 
 ## 📬 Contact  
 📌 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/praveen-rajak)  
+📌 **Github**: [Github](https://www.github.com/in/praveenraj027)  
 📧 **Email**: [praveenrajak0506@gmail.com](mailto:praveenrajak0506@gmail.com)  
 
 Feel free to explore my projects, and if you like what you see, don’t forget to give them a ⭐!  
