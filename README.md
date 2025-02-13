@@ -9,7 +9,7 @@ I'm **Praveen Rajak**, a passionate **Computer Science Engineering** student spe
 
 ### 🚀 Projects
  
-🔹 *[AlgoVisualizer]()* — Making algorithms come to life through visualization.  
+🔹 *[AlgoVisualizer](https://github.com/Team-Vasiliades/ALGOVisualizer)* — Making algorithms come to life through visualization.  
 
 
 🔍 **Interests**  
