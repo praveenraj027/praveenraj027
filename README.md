@@ -23,7 +23,7 @@ I'm **Praveen Rajak**, a passionate **Computer Science Engineering** student spe
 - **Backend**: Node.js (familiarity), Express (basic knowledge)  
 - **Version Control**: Git, GitHub
  
-### 🏆 Hackathons
+🏆 **Hackathons**
 
 👑 *Fronend Developer of Team Vasiliades* — 1st Runner up at *Genethon 2024*.  
 
