@@ -38,7 +38,7 @@ I'm **Praveen Rajak**, a passionate **Computer Science Engineering** student spe
 ### 📊 GitHub Stats
 
 ![Praveen Rajak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveenraj027&show_icons=true&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praveenraj027&layout=compact&theme=radical)
 
 ## 📬 Contact  
 📌 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/praveen-rajak)  
