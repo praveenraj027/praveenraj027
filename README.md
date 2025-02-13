@@ -34,6 +34,12 @@ I'm **Praveen Rajak**, a passionate **Computer Science Engineering** student spe
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B)  
 
+
+### 📊 GitHub Stats
+
+![Praveen Rajak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveenraj027&show_icons=true&theme=radical)
+
+
 ## 📬 Contact  
 📌 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/praveen-rajak)  
 📧 **Email**: [praveenrajak0506@gmail.com](mailto:praveenrajak0506@gmail.com)  
