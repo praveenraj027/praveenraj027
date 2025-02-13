@@ -10,7 +10,7 @@ I'm **Praveen Rajak**, a passionate **Computer Science Engineering** student spe
 ### 🚀 Projects
  
 🔹 *[AlgoVisualizer](https://github.com/Team-Vasiliades/ALGOVisualizer)* — Making algorithms come to life through visualization.  
-
+🔹 *[Weather-app]([https://github.com/](https://github.com/praveenraj027/Weather-App))* — Check weather by entering name of any city.  
 
 🔍 **Interests**  
 - Artificial Intelligence  
