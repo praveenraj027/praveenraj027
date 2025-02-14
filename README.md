@@ -33,6 +33,8 @@ I'm **Praveen Rajak**, a passionate **Computer Science Engineering** student spe
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B)  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+
 
 
 ### 📊 GitHub Stats
