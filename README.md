@@ -61,15 +61,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praveenraj027&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenraj027&layout=compact&theme=radical" width="45%" />
-</p>
-
----
-
 ### 📫 Connect With Me
 
 🌐 **Portfolio**: [https://praveenrajak.vercel.app](https://praveenrajak.vercel.app)  
